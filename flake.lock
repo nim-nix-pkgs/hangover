@@ -125,11 +125,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1657255453,
-        "narHash": "sha256-Ph16XMe6L0OEFBzjCmL3RoXltRWZ/Mh8CXtbWfqdC8o=",
+        "lastModified": 1658019324,
+        "narHash": "sha256-0vlJvKTVQ10/juvohKPY5gELJjGqkiLm+lGCrRi7aLc=",
         "owner": "nim-nix-pkgs",
         "repo": "hangover",
-        "rev": "bb52a128d64d2907a26d21e8edb407e3cf9f811e",
+        "rev": "24336519f10195329f9bf71408fad65c43f5e367",
         "type": "github"
       },
       "original": {
